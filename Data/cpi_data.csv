@@ -1,0 +1,50 @@
+﻿TABLE 37 : CONSUMER PRICE INDEX - ANNUAL AVERAGE,,,,,,
+Year,Index (Average of months),,,,,
+,IW,IW(Food),AL,New CPI Rural,New CPI Urban,New CPI Combined (Rural+Urban)
+1,2,3,4,5,6,7
+(Base : 1982 = 100 for IW and 1960 - 61 = 100 For AL),,,,,,
+1993-94,258,272,1114,-,-,-
+1994-95,284,304,1247,-,-,-
+(Base : 1986-87 = 100 for AL),,,,,,
+1995-96,313,337,234,-,-,-
+1996-97,342,369,256,-,-,-
+1997-98,366,388,264,-,-,-
+1998-99,414,445,293,-,-,-
+1999-00,428,446,306,-,-,-
+2000-01,444,453,305,-,-,-
+2001-02,463,466,309,-,-,-
+2002-03,482,477,319,-,-,-
+2003-04,500,495,331,-,-,-
+2004-05,520,506,340,-,-,-
+(Base : 2001 = 100 for CPI - IW),,,,,,
+2005-06,117,115,353,-,-,-
+2006-07,125,126,380,-,-,-
+2007-08,133,136,409,-,-,-
+2008-09,145,153,450,-,-,-
+2009-10,163,176,513,-,-,-
+2010-11,180,194,564,-,-,-
+(Base : 2012 = 100 for New CPI),,,,,,
+2011-12,195,206,611,92.8,93.8,93.3
+2012-13,215,230,672,102.7,102.3,102.5
+2013-14,236,259,750,112.6,111.8,112.2
+2014-15,251,276,800,119.5,118.1,118.9
+2015-16,265,293,835,126.1,123.0,124.7
+2016-17,276,305,870,132.4,127.9,130.3
+2017-18,284,310,889,137.2,132.5,135.0
+2018-19,300,312,907,141.3,137.7,139.6
+2019-20,323,335,980,147.3,145.1,146.3
+(Base : 2016 = 100 for CPI - IW),,,,,,
+2020-21,118,118,1034,156.1,154.4,155.3
+2021-22,124,124,1075,164.5,163.1,163.8
+2022-23,131,131,1148,175.8,173.5,174.7
+2023-24,138,141,1229,185.6,182.4,184.1
+2024-25,143,149,1299,194.9,190.0,192.6
+Notes : 1. IW: Industrial Workers AL: Agricultural Labourers,,,,,,
+2. CPI - IW series for 2005-06 has been derived by linking the 2001 series with the 1982 series by using the linking factor 4.63 for the ‘General Index’ and and 4.58 for the ‘Food Group’.,,,,,,
+"3. Prior to base 2016, CPI - IW Food and Beverages was termed as CPI - IW Food.",,,,,,
+4. CPI - IW data with base 2016=100 were reported from September 2020; the linking factor with base 2001 series is 2.88.,,,,,,
+5. CPI - AL Series for 1995-96 has been derived by linking the 1986-87 series with the 1960-61 series by using the linking factor 5.89.,,,,,,
+"6. CPI (Rural, Urban and Combined) was introduced from January 2011. Data for this series are available for Base: 2012=100.",,,,,,
+"Source : 1. Labour Bureau, Ministry of Labour and Employment, Government of India.",,,,,,
+"2. National Statistics Office (NSO), Ministry of Statistics and Programme Implementation, Government of India.",,,,,,
+Also see Notes on Tables.,,,,,,
